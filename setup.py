@@ -23,5 +23,6 @@ setuptools.setup(
     ],
     install_requires = [
         'paho-mqtt'
+        'pandas'
     ],
 )
